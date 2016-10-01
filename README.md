@@ -2,7 +2,7 @@
 
 [MariaDB](https://mariadb.org/) - An enhanced, drop-in replacement for MySQL.
 
-[![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)](#)
+![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)[![](https://images.microbadger.com/badges/image/aaronpederson/mariadb.svg)](https://microbadger.com/images/aaronpederson/mariadb "Get your own image badge on microbadger.com")
 
 Tunables
 --------
